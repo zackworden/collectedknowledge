@@ -24,3 +24,10 @@ https://github.com/daveross/decks/blob/master/fp/index.html
 ## Object Oriented Programming
 A collection of easy to follow design patterns
 https://www.youtube.com/playlist?list=PLF206E906175C7E07
+
+## General Web Development
+HTTP Response quick reference
+https://i.imgur.com/n34U9Wg.jpg
+
+Why we can't do all of your HTTP requests
+http://imgur.com/BEb8Q
