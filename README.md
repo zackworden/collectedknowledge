@@ -29,6 +29,9 @@ https://www.youtube.com/playlist?list=PLF206E906175C7E07
 HTTP Response quick reference
 https://i.imgur.com/n34U9Wg.jpg
 
+HTML <head> reference
+https://gethead.info/
+
 Why we can't do all of your HTTP requests
 http://imgur.com/BEb8Q
 
